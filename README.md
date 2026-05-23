@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on handling real-world data and building small Data Analytics projects<br>👯 I’m looking to collaborate on Data Analytics, Data Science, and Machine Learning projects<br>🤝 I’m looking for help with gaining a deeper understanding of Machine Learning<br>🌱 I’m currently learning Data Science and AI/ML<br>💬 Ask me about Python, Data Analytics, Power BI, and MySQL<br>⚡ Fun fact: I usually start building a project the moment an idea hits my mind 🚀<br>
+🔭 I’m currently working on handling real-world data and building small Data Science projects<br>👯 I’m looking to collaborate on Data Analytics, Data Science, and Machine Learning projects<br>🤝 I’m looking for help with gaining a deeper understanding of Machine Learning<br>🌱 I’m currently learning Data Science and AI/ML<br>💬 Ask me about Python, Data Analytics, Power BI, and MySQL<br>⚡ Fun fact: I usually start building a project the moment an idea hits my mind 🚀<br>
 
 
 ## 🌐 Socials:
